@@ -3,6 +3,7 @@
 
 ## Projects Using MONGODB
 > * [Quiz](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_MEAN_Stack): **MEAN** Stack (**MongoDB**, **Express**, **Angular**, **Node**)
+To build a program that execute customized-quiz: "**memorization**", "**flashcard**", "**true/false**", "**multiple choice questions**") everything is controlled totally by a **Graphic User Interface**.
 
 > * [Quiz](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_MERN_Stack): **MERN** Stack (**MongoDB**, **Express**, **ReactJS**, **Node**)
 
