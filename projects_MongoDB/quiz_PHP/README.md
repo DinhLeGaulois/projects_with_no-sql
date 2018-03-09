@@ -3,7 +3,7 @@
 ----
 
 ## Goal
-To learn how to use "**PHP**" with a database. The **UI** (User Interface) is rudimentary but functional. This is just **2-tier architecture** (**server-side** and **datasource**). But the main purpose is to learn one more language: the "**PHP**".
+To learn how to use "**PHP**" with a database. The **UI** (User Interface) is rudimentary but functional. The main purpose is to learn one more language: the "**PHP**".
 
 Using "**CSS**", "**Bootstrap**" and "**jQuery**" along with PHP to make a beautiful user interface. 
 
