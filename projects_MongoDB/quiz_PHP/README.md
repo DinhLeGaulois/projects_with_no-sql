@@ -12,16 +12,6 @@ This application is used to show how three part of a 3-tier Architecture work to
 
 	user interface <==> PHP <==> MongoDB
 
-## Technologies
-
-The complexity is increased (not always) following this order:
-
-- [ ] [**Quiz with MongoDB**](https://github.com/DinhLeGaulois/quiz_clientServer_MongoDB): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**
-- [x] [**Quiz with PHP**](https://github.com/DinhLeGaulois/quiz_PHP): **CSS**, **jQuery**, **BootStrap**, **PHP**, **MongoDB**
-- [ ] [**Quiz with M.E.R.N. Stack**](https://github.com/DinhLeGaulois/quiz_clientServer_MongoDB_React): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**, **React**
-- [ ] [**Quiz with M.E.A.N. Stack**](https://github.com/DinhLeGaulois/quiz_clientServer_MongoDB_Angular): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**, **Angular** (version 2)
-- [ ] [**Quiz with Mobile App**](https://github.com/DinhLeGaulois/quiz_MobileApp): **Ionic 2**, **Angular** (version 2)
-
 
 ## Problem
 We need to install a driver of MongoDB to allow PHP to work with the database. If we use XAMPP, we should not use the last version because there is no Mongo's driver for it. Instead, we should follow  some particular steps ([here](https://stackoverflow.com/questions/32134416/adding-mongodb-extension-for-php-5-6-xampp)) or:

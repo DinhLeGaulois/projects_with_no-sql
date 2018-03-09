@@ -11,14 +11,6 @@ The structure is a full "**3-tier Architecture**" with a **MVC**'s model.
 ## Technologies
 This is a version with **client-server** with utilisation of **MongoDB** for persistence and **ReactJS** for a reactive application.
 
-The complexity is increased (not always) following this order:
-
-- [ ] [**Quiz with MongoDB**](https://github.com/DinhLeGaulois/quiz_clientServer_MongoDB): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**
-- [ ] [**Quiz with PHP**](https://github.com/DinhLeGaulois/quiz_PHP): **CSS**, **jQuery**, **BootStrap**, **PHP**, **MongoDB**
-- [x] [**Quiz with M.E.R.N. Stack**](https://github.com/DinhLeGaulois/quiz_clientServer_MongoDB_React): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**, **React**
-- [ ] [**Quiz with M.E.A.N. Stack**](https://github.com/DinhLeGaulois/quiz_clientServer_MongoDB_Angular): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**, **Angular** (version 2)
-- [ ] [**Quiz with Mobile App**](https://github.com/DinhLeGaulois/quiz_MobileApp): **Ionic 2**, **Angular** (version 2)
-
 
 ### The Relationship Between React Components:
 

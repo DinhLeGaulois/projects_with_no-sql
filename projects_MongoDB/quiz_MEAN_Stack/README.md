@@ -10,15 +10,6 @@ The structure is a full "**3-tier Architecture**" with a **MVC**'s model.
 
 ## Technologies
 As we start with the same problem (**quiz**), all application of the series show about the same things. However, the goal is to focus on the use of technologies.
-
-The complexity is increased (not always) following this order:
-
-- [ ] [**Quiz with MongoDB**](https://github.com/DinhLeGaulois/quiz_clientServer_MongoDB): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**
-- [ ] [**Quiz with PHP**](https://github.com/DinhLeGaulois/quiz_PHP): **CSS**, **jQuery**, **BootStrap**, **PHP**, **MongoDB**
-- [ ] [**Quiz with M.E.R.N. Stack**](https://github.com/DinhLeGaulois/quiz_clientServer_MongoDB_React): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**, **React**
-- [x] [**Quiz with M.E.A.N. Stack**](https://github.com/DinhLeGaulois/quiz_clientServer_MongoDB_Angular): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**, **Angular** (version 2)
-- [ ] [**Quiz with Mobile App**](https://github.com/DinhLeGaulois/quiz_MobileApp): **Ionic 2**, **Angular** (version 2)
-
  
 ## Execution
 1. Execute "**npm install**" to install dependencies. **Attention:** my computer with 12 GB of RAM is not enough to install the dependencies: the installation's process stops before the end and we have a "**node_modules/.staging**" folder instead of dependencies' folders. It installs perfectly with a machine with 16 GB of RAM. Why? No Idea ...
